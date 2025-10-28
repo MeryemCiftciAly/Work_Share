@@ -51,4 +51,4 @@ The data used in this project is **synthetic and custom-built** to model real-wo
 
 ## ✨ Conclusion & Next Steps
 
-This dashboard serves as an analytical artifact designed for executive decision-making. Users are encouraged to utilize the filters to explore specific risk profiles and caseload vulnerabilities to enhance resource allocation and drive success beyond the current benchmark.
+This dashboard was designed to help businesses or organizations who run similar programs to make decisions. Users are encouraged to utilize the filters to explore specific risk profiles and caseload vulnerabilities to enhance resource allocation and drive success beyond the current benchmark.
