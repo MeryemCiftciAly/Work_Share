@@ -10,7 +10,7 @@ Hello! I am Meryem. Thank you for visiting my Power BI project. This dashboard w
 
 Access the published Power BI report directly:
 
-* **View Live Dashboard:** **[[Link to Published Power BI Report][(https://app.powerbi.com/view?r=eyJrIjoiMDA0OTI5MDItZGYzYi00YTljLTgxODgtNTlhY2FjZDJiNTA5IiwidCI6IjAwMjgyOGQ1LTBiYTMtNDJmZi1hMWFkLWFlMzUwMWU5YTliMiIsImMiOjJ9)]**
+* **View Live Dashboard:** **[[Link to Published Power BI Report] (https://app.powerbi.com/view?r=eyJrIjoiMDA0OTI5MDItZGYzYi00YTljLTgxODgtNTlhY2FjZDJiNTA5IiwidCI6IjAwMjgyOGQ1LTBiYTMtNDJmZi1hMWFkLWFlMzUwMWU5YTliMiIsImMiOjJ9)]**
 ---
 
 ## 📝 Project Overview
