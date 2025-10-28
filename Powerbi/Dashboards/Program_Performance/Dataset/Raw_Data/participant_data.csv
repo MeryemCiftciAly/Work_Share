@@ -1,0 +1,51 @@
+Participant_ID,Age_Group,Risk_Level,Prior_Offenses,Geo_Zone,Education_Level
+1,36-50,Medium,2,North,High School
+2,26-35,High,5,South,Some College
+3,18-25,Low,0,Central,High School
+4,36-50,Medium,3,North,Degree
+5,51+,Low,1,South,High School
+6,26-35,High,7,Central,Some College
+7,18-25,Low,0,North,High School
+8,36-50,Medium,4,South,Degree
+9,26-35,Low,1,Central,Some College
+10,18-25,High,6,North,High School
+11,51+,Medium,2,South,Degree
+12,26-35,Low,1,Central,High School
+13,36-50,High,8,North,Some College
+14,18-25,Medium,3,South,High School
+15,51+,Low,0,Central,Degree
+16,26-35,Medium,3,North,Some College
+17,36-50,Low,1,South,High School
+18,18-25,High,5,Central,Degree
+19,51+,Medium,2,North,Some College
+20,26-35,Low,0,South,High School
+21,36-50,High,9,Central,Degree
+22,18-25,Medium,2,North,Some College
+23,51+,Low,1,South,High School
+24,26-35,Medium,4,Central,Degree
+25,36-50,Low,0,North,Some College
+26,18-25,High,6,South,High School
+27,51+,Medium,3,Central,Degree
+28,26-35,Low,1,North,Some College
+29,36-50,High,7,South,High School
+30,18-25,Low,0,Central,Degree
+31,51+,Medium,4,North,Some College
+32,26-35,High,9,South,High School
+33,36-50,Low,1,Central,Degree
+34,18-25,Medium,3,North,Some College
+35,51+,Low,0,South,High School
+36,26-35,Medium,2,Central,Degree
+37,36-50,High,5,North,Some College
+38,18-25,Low,1,South,High School
+39,51+,Medium,3,Central,Degree
+40,26-35,Low,0,North,Some College
+41,36-50,High,8,South,High School
+42,18-25,Medium,2,Central,Degree
+43,51+,Low,1,North,Some College
+44,26-35,Medium,4,South,High School
+45,36-50,Low,0,Central,Degree
+46,18-25,High,7,North,Some College
+47,51+,Medium,3,South,High School
+48,26-35,Low,1,Central,Degree
+49,36-50,Medium,4,North,Some College
+50,18-25,High,6,South,High School
